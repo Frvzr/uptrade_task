@@ -35,6 +35,12 @@ python manage.py loaddata data.json
 python manage.py createsuperuser
 ```
 
+6. Run server
+
+```
+python manage.py runserver
+```
+
 ### Level 1
 
 ![alt text](https://github.com/Frvzr/uptrade_task/blob/main/screens/level_1.JPG)
