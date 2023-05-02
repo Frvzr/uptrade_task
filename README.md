@@ -37,8 +37,8 @@ python manage.py createsuperuser
 
 ### Level 1
 
-![plot](./screens/level_1.jpg)
+![alt text](https://github.com/Frvzr/uptrade_task/tree/main/screens/level_1.jpg)
 
 ### Level 2
 
-![plot](./screens/level_2.jpg)
+![alt text](https://github.com/Frvzr/uptrade_task/tree/main/screens/level_2.jpg)
