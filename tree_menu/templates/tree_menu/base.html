@@ -1,0 +1,24 @@
+{% load static %}
+{% load menu_tags %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% block title %}<title>Template tag menu</title>{% endblock %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <div>
+    <h1>Menu</h1>
+    <div>
+      {% draw_menu 'main_menu' %}
+    </div>
+    <div>
+      {% draw_menu 'next_menu' %}
+    </div>
+  </div>
+</body>
+
+</html>
